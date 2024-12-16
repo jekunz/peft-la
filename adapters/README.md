@@ -45,3 +45,4 @@ Ablations on layer exclusion:
 Ablations with Icelandic Gigaword Corpus (IGC): 
 * jekunz/bottleneck4-igc
 * jekunz/lora256ff-igc
+* jekunz/lora256attn-igc
