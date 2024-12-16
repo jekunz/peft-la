@@ -1,5 +1,6 @@
-### Config files and parameters of the adapters.
+## Config files and parameters of the adapters.
 
+HuggingFace Identifiers for all adapters used to generate the results for the paper. 
 
 ### Section 3.1
 Bottleneck Adapters, CNet: 
